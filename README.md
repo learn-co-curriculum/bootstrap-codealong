@@ -27,5 +27,4 @@ git commit -m 'completes bootstrap code-along'
 git push
 ```
 
-
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/bootstrap-codealong' title='Bootstrap Code-Along'>Bootstrap Code-Along</a> on Learn.co and start learning to code for free.</p>
